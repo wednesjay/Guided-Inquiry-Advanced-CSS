@@ -1,0 +1,38 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.stars {
+    background-color: darkblue;
+    width: 500px;
+    height: auto;
+    color: white;
+    vertical-align: center;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 1ch;
+}
+
+.stars p {
+    margin: 0;
+    padding: 0;
+}
+
+.shortBar {
+    background-color: red;
+    width: 500px;
+    height: 50px;
+}
+
+.white {
+    background-color: white;
+    width: 500px;
+    height: 50px;
+}
+
+.red {
+    background-color: red;
+    width: 500px;
+    height: 50px;
+}

@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+table {
+    margin: 10px;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.black {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+
+.white {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
